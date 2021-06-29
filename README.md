@@ -1,2 +1,2 @@
 # cheet
-spp added
+app added
